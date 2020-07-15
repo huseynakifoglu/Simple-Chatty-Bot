@@ -1,2 +1,2 @@
 # Simple-Chatty-Bot
-First project from Hyperskill Jetbrains Academy.
+First python project of Hyperskill Jetbrains Academy.
